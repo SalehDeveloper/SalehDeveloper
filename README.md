@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Gymawy](github.com/SalehDeveloper/Gymawy)
+- 🔭 I’m currently working on [Gymawy](https://github.com/SalehDeveloper/Gymawy)
 
 - 🌱 I’m currently learning **advanced .NET technologies, and clean coding practices.**
 

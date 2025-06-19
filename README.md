@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Gymawy](https://github.com/SalehDeveloper/Gymawy)
+- 🔭 I’m currently working on [Gymawy](https://github.com/SalehDeveloper/Gymawy) project
 
 - 🌱 I’m currently learning **advanced .NET technologies, and clean coding practices.**
 
@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/SalehCV](https://tinyurl.com/SalehCV)
 
-- ⚡ Fun fact **I can write a LINQ query faster than I can make a cup of tea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
